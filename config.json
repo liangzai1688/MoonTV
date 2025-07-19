@@ -76,9 +76,6 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    },
-    "jszy": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源"
+    }
   }
 }
